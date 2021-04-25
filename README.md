@@ -1,2 +1,2 @@
 # ParisaZehtabi
-Persoanl Website
+Personal Website
